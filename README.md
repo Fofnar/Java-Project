@@ -9,12 +9,18 @@ Développement du moteur de jeu et du gameplay : Conception et implémentation c
 Collaborations : Mon binôme a contribué à la création des menus, des interfaces d'entrée et de sortie, ainsi qu'à l'ajout des éléments de sonorisation pour améliorer l'expérience utilisateur.
 
 Technologies utilisées
+
 Langage de programmation : Java
+
 Framework : LibGDX
-Outils de développement : Git, IDE IntelliJ IDEA
+
+Outils de développement : Git, IDE IntelliJ IDEA,Eclipse
 Auteurs
+
 Fodeba Fofana : Création du moteur de jeu, du gameplay, et des mécanismes principaux.
+
 Luca Scotto : Conception des menus, gestion des entrées/sorties, et ajout de la sonorisation.
+
 
 Compilation du projet :
 
