@@ -1,6 +1,7 @@
 Jeu Spatial 2D
 
 Description
+
 Un jeu spatial 2D où un vaisseau affronte des ennemis. Ce projet a été réalisé dans le cadre d'un travail académique en Java et LibGDX.
 
 Conception et Développement
