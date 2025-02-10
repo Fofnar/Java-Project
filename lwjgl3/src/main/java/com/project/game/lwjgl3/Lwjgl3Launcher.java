@@ -6,8 +6,6 @@ import com.project.game.Main;
 
 /**
  * Classe pour lancer l'application: <code>Lwjgl3Launcher</code>
- * @author Lucas
- * @author Fofana
  * @version 1.0.0
  */
 public class Lwjgl3Launcher
